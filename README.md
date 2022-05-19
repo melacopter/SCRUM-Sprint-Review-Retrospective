@@ -1,5 +1,5 @@
 # SCRUM-Sprint-Review-Retrospective
-This repository was created to house the "Sprint Review and Retrospective" deliverable from my final project in my CS-250 SDLC course at SNHU. In it, I compile all my knowledge and display critical thinking and analyses regarding agile SCRUM and it's role in the modern software development life cycle. The document included in this repository addresses each of the following:
+The document included in this repository addresses each of the following:
 
 1. Demonstrate how the various roles on your Scrum-agile Team specifically contributed to the success of the SNHU Travel project. Be sure to use specific examples from your          experiences.
 2. Describe how a Scrum-agile approach to the SDLC helped each of the user stories come to completion. Be sure to use specific examples from your experiences.
